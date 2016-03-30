@@ -1,0 +1,25 @@
+.profile-avatar {
+	img {
+		border-radius: 50% 0% 0% 50%;
+		height: 40px;
+		border: 5px solid #2FFF82;	
+		margin-right: 0px;
+		vertical-align: top;
+	}
+	.who {
+		border: 5px solid #2FFF82;	
+		border-radius: 50% 0% 0% 50%;
+		width: 40px;
+		background-color: #2FFF82;
+	}
+	.done {
+    height: 40px;
+		margin-left: -4px;    
+    width: 108px;
+    background-color: #2FFF82;
+    display: inline-block;
+    color: #6b46e5;
+    line-height: 40px;
+    white-space: nowrap;
+	}
+}
